@@ -1,5 +1,0 @@
-C:\Users\ferdi\OneDrive\Masaüstü\DSA\Struct\Struct\obj\Debug\net5.0\MyStruct.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ferdi\OneDrive\Masaüstü\DSA\Struct\Struct\obj\Debug\net5.0\MyStruct.AssemblyInfoInputs.cache
-C:\Users\ferdi\OneDrive\Masaüstü\DSA\Struct\Struct\obj\Debug\net5.0\MyStruct.AssemblyInfo.cs
-C:\Users\ferdi\OneDrive\Masaüstü\DSA\Struct\Struct\obj\Debug\net5.0\MyStruct.csproj.CoreCompileInputs.cache
-C:\Users\ferdi\OneDrive\Masaüstü\DSA\Struct\Struct\obj\Debug\net5.0\MyStruct.sourcelink.json
